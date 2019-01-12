@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\bin\Debug\CpuCoresCsharp.exe.config
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\bin\Debug\CpuCoresCsharp.exe
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\bin\Debug\CpuCoresCsharp.pdb
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.Form1.resources
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.Properties.Resources.resources
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.exe
+C:\Users\franc\source\repos\CpuCoresCsharp\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.pdb
