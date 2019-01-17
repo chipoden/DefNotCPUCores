@@ -102,7 +102,7 @@ namespace CpuCoresCsharp
                                     )
                                     {
                                         p.PriorityClass = ProcessPriorityClass.BelowNormal;
-                                        p.ProcessorAffinity = (IntPtr)0x0001;
+                                        p.ProcessorAffinity = (IntPtr)0x0004;
 
                                     }
                                  //   System.Threading.Thread.Sleep(500);
@@ -439,7 +439,7 @@ namespace CpuCoresCsharp
                     )
                     {
                         p.PriorityClass = ProcessPriorityClass.BelowNormal;
-                        p.ProcessorAffinity = (IntPtr)0x0001;
+                        p.ProcessorAffinity = (IntPtr)0x0004;
 
                     }
                 }
