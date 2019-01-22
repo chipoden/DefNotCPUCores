@@ -28,3 +28,13 @@ C:\Users\franc\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\Cpu
 C:\Users\franc\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharpMELHORA.csproj.CoreCompileInputs.cache
 C:\Users\franc\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.exe
 C:\Users\franc\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.pdb
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\bin\Debug\CpuCoresCsharp.exe.config
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\bin\Debug\CpuCoresCsharp.exe
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\bin\Debug\CpuCoresCsharp.pdb
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharpMELHORA.csprojAssemblyReference.cache
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.Form1.resources
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.Properties.Resources.resources
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharpMELHORA.csproj.GenerateResource.cache
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharpMELHORA.csproj.CoreCompileInputs.cache
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.exe
+C:\Users\6084\Source\Repos\chipoden\DefNotCPUCores\CpuCoresCsharp\obj\Debug\CpuCoresCsharp.pdb
