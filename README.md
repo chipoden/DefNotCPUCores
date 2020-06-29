@@ -1,2 +1,2 @@
 # DefNotCPUCores
-This is a version of NotCPUCores I'm making using c#
+This is a version of NotCPUCores i'm making using c#
